@@ -1,0 +1,5 @@
+cobaltmac.json spot with 3 cobalts
+
+nittlemac.json 27, -12
+
+wood3.json 4,31
